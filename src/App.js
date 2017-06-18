@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-import TaskList from './TaskList';
-import Date from './Date';
-import Avatar from './Avatar';
-import AddButton from './AddButton';
-import AddTaskText from './AddTaskText';
+import TaskList from './components/TaskList';
+import Date from './components/Date';
+import Avatar from './components/Avatar';
+import AddButton from './components/AddButton';
+import AddTaskText from './components/AddTaskText';
 import './App.css';
 
 class App extends Component {
